@@ -1,0 +1,2 @@
+import requets
+import bs4
