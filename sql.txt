@@ -1,0 +1,7 @@
+sql(mysql - sqlserver)
+nosql(radis - mongodb)
+CREATE TABLE student(
+    id INT
+    name VARCHAR
+    age INT
+)
