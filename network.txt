@@ -4,3 +4,4 @@ router
 WAN, LAN
 IP = 192.168.10.5/24
 sub = 255.255.255.0
+OSI = 7L
